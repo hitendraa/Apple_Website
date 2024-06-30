@@ -4,9 +4,11 @@ import App from './App.jsx'
 import './index.css'
 import * as Sentry from "@sentry/react";
 
+// import env data
+import DSNKEY from '../env'
 
 Sentry.init({
-  dsn: "https://bf29ebee1bb8a27aaceb98f35c1289d1@o4507520467271680.ingest.us.sentry.io/4507520470941696",
+  dsn: {DSNKEY},
   integrations: [
     Sentry.browserTracingIntegration(),
     Sentry.reactRouterV6BrowserTracingIntegration({
