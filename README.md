@@ -1,9 +1,12 @@
 # iPhone 15 Pro Clone (Apple Website)
 
-This is a clone of the iPhone 15 Pro webpage, developed using React, Three.js, and GSAP. 
+This is a high-fidelity clone of the iPhone 15 Pro webpage, developed using React, Three.js, and GSAP. 
 
 ## Live Demo
 You can preview or see the live version of the website [here](https://apple-website-rofqig6ka-hitendras-projects-43f86e87.vercel.app/).
+
+## Preview
+![Webpage Preview](path/to/your-gif.gif)
 
 ## Table of Contents
 - [Features](#features)
@@ -52,5 +55,25 @@ After setting up the project, you can make changes to the codebase and see the r
 - **React components** are located in the `src/components` directory.
 - **Styles** are located in the `Root` directory.
 - **3D models and assets** are located in the `public` directory.
-- **Text Content and Links** are located in the `constants` directory.
+- **Text content and links** are located in the `constants` directory.
 
+## Contributing
+Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcomed.
+
+1. **Fork the repository**
+2. **Create your feature branch**
+    ```bash
+    git checkout -b feature/YourFeature
+    ```
+3. **Commit your changes**
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. **Push to the branch**
+    ```bash
+    git push origin feature/YourFeature
+    ```
+5. **Create a new Pull Request**
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
