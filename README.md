@@ -6,7 +6,7 @@ This is a high-fidelity clone of the iPhone 15 Pro webpage, developed using Reac
 You can preview or see the live version of the website [here](https://apple-website-rofqig6ka-hitendras-projects-43f86e87.vercel.app/).
 
 ## Preview
-![Webpage Preview](path/to/your-gif.gif)
+![Webpage Preview](public/assets/preview.gif)
 
 ## Table of Contents
 - [Features](#features)
